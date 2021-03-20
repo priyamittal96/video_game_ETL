@@ -1,2 +1,2 @@
-client_id = ""
+client_id = "YOUR CLIENT ID HERE"
 
